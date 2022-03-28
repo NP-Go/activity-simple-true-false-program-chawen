@@ -8,7 +8,7 @@ func compare(value int) string {
 	secretValue := 66
 
 	//Insert your code from here
-	if value == secretValue{
+	if value == secretValue {
 		fmt.Println ("Check 66")
 	}
 
